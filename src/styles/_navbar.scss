@@ -11,11 +11,11 @@
             width: 100%;
             text-align: center;
             margin-top: 1rem;
-            border-bottom: 1px solid #2e344e;
+            border-bottom: 1px solid #884B58;
             img{
                 width: 70%;
                 border-radius: 100%;
-                border: 5px solid #2e344e;
+                border: 5px solid #884B58;
                 margin-bottom: 1rem;
             }
         }
@@ -39,7 +39,7 @@
                         left: 0;
                         width: .4rem;
                         height: 100%;
-                        background-color: #0381ff33;
+                        background-color: #FF666333;
                         transform-origin: bottom;
                         transform: scale(0);
                         overflow-x: hidden;
@@ -66,5 +66,5 @@
 }
 
 .active{
-    background-color: #037FFF;
+    background-color: #A26769;
 }
