@@ -1,5 +1,6 @@
 @import "./styles/layout";
 @import "./styles/navbar";
+@import "./styles/typography";
 
 *{
     padding: 0;
@@ -8,7 +9,7 @@
 }
 
 body{
-    color: #FEFFFE;
+    color: #FFFFFF;
     font-family: 'M PLUS Rounded 1c', sans-serif;
     font-size: 1.2rem;
 }

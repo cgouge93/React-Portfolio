@@ -2,14 +2,16 @@
     .sidebar {
         width: 16%;
         height: 100vh;
-        background-color: #D5B9B2;
+        background-color: #A26769;
         position: fixed;
     }
 
     .main-content {
         width: 84%;
         margin-left: 16%;
-        background-color: #6D2E46;
+        background-color: #CEBEBE;
         min-height: 100vh;
+        display: grid;
+       
     }
 }
