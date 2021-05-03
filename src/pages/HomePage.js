@@ -17,13 +17,13 @@ function HomePage() {
                 </p>
             </header>
             <div className="icons">
-                    <a target="_blank" href="https://www.linkedin.com/in/carly-gouge-570a001b9/" className="icon-holder">
+                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/carly-gouge-570a001b9/" className="icon-holder">
                         <FontAwesomeIcon icon={faLinkedin} className="icon li" />
                     </a>
-                    <a target="_blank" href="https://www.github.com/cgouge93" className="icon-holder">
+                    <a target="_blank" rel="noreferrer" href="https://www.github.com/cgouge93" className="icon-holder">
                         <FontAwesomeIcon icon={faGithub} className="icon gh" />
                     </a>
-                    <a target="_blank" href="https://drive.google.com/file/d/1E32G3HB63SPELKBvSTiK7cFDHvvKRLYH/view" className="icon-holder">
+                    <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1E32G3HB63SPELKBvSTiK7cFDHvvKRLYH/view" className="icon-holder">
                         <FontAwesomeIcon icon={faFile} className="icon res"/>
                     </a>
                 </div>

@@ -1,6 +1,7 @@
 
 .about-details{
     display: flex;
+    color: black;
     p{
         padding: .3rem 0;
     }
@@ -16,7 +17,7 @@
     border: none;
     font-family: inherit;
     font-size: inherit;
-    color: white;
+    color: #FE5F55;
     text-transform: uppercase;
     cursor: pointer;
     letter-spacing: 2px;
@@ -50,7 +51,7 @@
 
 .btn-port{
     padding: .6rem 2rem;
-    background-color: #0381ff5b;
+    background-color: #5773995b;
     border: none;
     outline: none;
     cursor: pointer;
@@ -63,13 +64,13 @@
         margin-right: 1rem;
     }
     &:hover{
-        background-color: #037FFF;
+        background-color: #577399;
     }
     &:active{
-        background-color: #037FFF;
+        background-color: #577399;
     }
     &:focus{
-        background-color: #037FFF;
+        background-color: #577399;
     }
     
 
